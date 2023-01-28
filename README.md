@@ -42,6 +42,8 @@
 - [Stacked Bar Chart](https://www.tutorialgateway.org/power-bi-stacked-bar-chart/) Visual showing the Top 5 Products in Profit and Loss.
 - [Country Map](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-map-tips-and-tricks) Visual shows Sales by every region using bubbles.
 
+https://user-images.githubusercontent.com/121333630/215252571-5867984c-30ba-4178-a77d-65df9cad05ed.mp4
+
 <hr>
 
 ## Preview or Access the Responsive DashBoard from below link-    
