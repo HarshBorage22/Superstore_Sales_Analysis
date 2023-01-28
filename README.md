@@ -4,7 +4,7 @@
 ### In this project, We're going to perform an Sales Data Analysis on the superstore Dataset. 
 <hr>
 
-<img src="https://github.com/HarshBorage22/E-Commerce_Sales_Analysis/blob/main/E-Com.png" alt="DB">
+<img src="https://github.com/HarshBorage22/Superstore_Sales_Analysis/blob/main/brave_gDPIauP7Vf.png" alt="DB">
 
 <hr>
 
@@ -12,7 +12,7 @@
 - ### [Access The live Responsive DashBoard Here](https://app.powerbi.com/view?r=eyJrIjoiMWMyYWNkODctOWM1OC00MWI1LThiOTQtNDczNzRkYmU4NTg5IiwidCI6ImY3MDA5ZDIzLTRhOTAtNDJmMS05MTBkLTM3Y2JhYmI3N2UxZCIsImMiOjF9)
 - ### [DashBoard Presented in PDF format](https://github.com/HarshBorage22/Superstore_Sales_Analysis/blob/main/Global_Superstore_2016.pdf)
 
-
+<hr>
 
 ## Description 
 #### This project is being implemented in order to master the basic principles of data analysis and visualization using [Power BI](https://powerbi.microsoft.com/en-au/).
